@@ -14,7 +14,6 @@ g++ main.cpp -o program
 # Features
 - Task.h
 - TaskList.h
-- Task.cpp
 - TaskList.cpp
 - main.cpp
 - makefile
