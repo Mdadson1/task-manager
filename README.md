@@ -1,6 +1,5 @@
 # task-manager
 
-
 # Description
 Object Oriented Programming C++ a console based Manager to track Task [objects] by crossing them off list, adding new tasks and sorting them
 Uses a Singly List Structure to build system. 
