@@ -1,2 +1,17 @@
 # task-manager
+
+
+# Description
 Object Oriented Programming C++ a console based Manager to track Task [objects] by crossing them off list, adding new tasks and sorting them
+Uses a Singly List Structure to build system. 
+Implemented a copy constructor to create exact copies of Tak list nodes each object with a different memory location
+
+
+
+# Features
+- Task.h
+- TaskList.h
+- Task.cpp
+- TaskList.cpp
+- main.cpp
+- makefile
